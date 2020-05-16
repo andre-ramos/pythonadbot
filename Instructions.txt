@@ -1,0 +1,25 @@
+Requeriments:
+Python
+Python Selenium webdriver:
+1- Install Pip
+https://www.youtube.com/watch?v=zPMr0lEMqpo
+2- Install selenium
+https://pypi.python.org/pypi/selenium
+Selenium driver for (Chrome)/and/or Chrome (Scan-DL) http://chromedriver.storage.googleapis.com/2.9/chromedriver_win32.zip
+Put chromedriver.exe in Python\Scripts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
